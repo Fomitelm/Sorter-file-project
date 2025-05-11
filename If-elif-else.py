@@ -1,4 +1,4 @@
-# If is used as a conditional as well as elif and else
+# If is used as a conditional as well as elif and else :)
 import random
 x = random.randint (1, 100)
 if x < 33:
