@@ -1,3 +1,4 @@
+# If is used as a conditional
 import random
 x = random.randint (1, 100)
 if x < 33:
